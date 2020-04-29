@@ -8451,6 +8451,13 @@
       <change beforePath="$PROJECT_DIR$/../page/tests/generator_test.php" beforeDir="false" afterPath="$PROJECT_DIR$/../page/tests/generator_test.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../page/version.php" beforeDir="false" afterPath="$PROJECT_DIR$/../page/version.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../page/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/../page/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax.php" beforeDir="false" afterPath="$PROJECT_DIR$/ajax.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/profspobook.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/profspobook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version.php" beforeDir="false" afterPath="$PROJECT_DIR$/version.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../quiz/accessmanager.php" beforeDir="false" afterPath="$PROJECT_DIR$/../quiz/accessmanager.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../quiz/accessmanager_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/../quiz/accessmanager_form.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../quiz/accessrule/accessrulebase.php" beforeDir="false" afterPath="$PROJECT_DIR$/../quiz/accessrule/accessrulebase.php" afterDir="false" />
@@ -11950,7 +11957,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -12003,6 +12010,8 @@
       <workItem from="1587028406429" duration="349000" />
       <workItem from="1587028768585" duration="2764000" />
       <workItem from="1587544412848" duration="2766000" />
+      <workItem from="1587554953642" duration="30000" />
+      <workItem from="1588179040536" duration="788000" />
     </task>
     <servers />
   </component>
@@ -12022,10 +12031,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1586266127135" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1587034685508">
+    <state x="813" y="284" width="424" height="484" key="FileChooserDialogImpl" timestamp="1587554981715">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1587034685508" />
+    <state x="813" y="284" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1587554981715" />
     <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1587027440734">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

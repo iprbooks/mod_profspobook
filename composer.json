@@ -1,5 +1,7 @@
 {
   "require": {
-    "iprbooks/profspo-sdk": "1.0"
+    "iprbooks/profspo-sdk": "1.0",
+    "ext-mbstring": "*",
+    "ext-json": "*"
   }
 }
