@@ -45,6 +45,8 @@ $booksCollection->setFilter(BooksCollection::TITLE, $title);
 $booksCollection->setOffset($booksCollection->getLimit() * $page);
 $booksCollection->get();
 
+$message = $booksCollection->getMessage();
+
 foreach ($booksCollection as $book) {
     $content .= getTemplate($book, $autoLoginUrl);
 }
@@ -52,7 +54,7 @@ foreach ($booksCollection as $book) {
 $content .= pagination($booksCollection->getTotal(), $page + 1);
 
 if (mb_strlen($content) < 200) {
-    $content = '<div style="font-size: 150%; text-align: center;">По вашему запросу ничего не найдено</div>' . $content;
+    $content = '<div style="font-size: 150%; text-align: center;">' . $message . '</div>' . $content;
 }
 
 echo json_encode(['page' => $page, 'html' => $content, 'details' => $details]);
